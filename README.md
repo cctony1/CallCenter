@@ -10,5 +10,5 @@ The f1 scores or the "0" and "1" classes are both 0.99. All true positives were 
 
 The most important feature in the predictive model by far is the duration of the last call with the customer. This may not be causal (i.e., just keep them on the phone and they'll invest!), but rather may simply reflect the length of time in answering the customers' questions prior to their investing or taking down their information as part of an application process.
 
-Customer segmentation...
+Customer segmentation (in progress)...
 
