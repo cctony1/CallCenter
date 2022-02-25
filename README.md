@@ -12,3 +12,5 @@ The most important feature in the predictive model by far is the duration of the
 
 Customer segmentation (in progress)...
 
+
+7rpqBYJQxTWdDeeI
